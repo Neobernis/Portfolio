@@ -1,5 +1,9 @@
 # Портфолио
 
+* Контакты: *
+* Телеграм: https://t.me/reshetov_tech
+* Почта: eseninokrr@gmail.com
+
 ## [Построение модели определения стоимости автомобиля - градиентный бустинг](https://github.com/Neobernis/Portfolio/blob/main/Autos/Autos_gradient_boosting.ipynb)
 (учебный проект)
 
