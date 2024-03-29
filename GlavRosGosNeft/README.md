@@ -1,5 +1,4 @@
 # Определение наиболее выгодного региона нефтедобычи
-![image](https://github.com/Neobernis/Portfolio/assets/109903977/1b3388a2-6c30-4403-8011-99241f8631e7)
 
 Стек: Python, Pandas, Numpy, Scikit-learn, LinearRegression, Matplotlib, Seaborn
 
@@ -13,3 +12,4 @@
 
 Инструменты: регрессия, бутстреп.
 
+![image](https://github.com/Neobernis/Portfolio/assets/109903977/1b3388a2-6c30-4403-8011-99241f8631e7)
