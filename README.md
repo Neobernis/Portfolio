@@ -6,8 +6,13 @@
 > 
 > eseninokrr@gmail.com
 
+| Название проекта | Описание | Используемые библиотеки |
+| :-------------------- | :--------------------- |:---------------------------|
+| ## [Построение модели определения стоимости автомобиля - градиентный бустинг](https://github.com/Neobernis/Portfolio/blob/main/Autos/Autos_gradient_boosting.ipynb) |Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. На основе исторических данных необходимо построить модель для быстрого определения стоимости автомобиля. | Python, Pandas, Scikit-learn, CatBoost, LightGBM, Seaborn.  |
+
+
 ## [Построение модели определения стоимости автомобиля - градиентный бустинг](https://github.com/Neobernis/Portfolio/blob/main/Autos/Autos_gradient_boosting.ipynb)
-(учебный проект)
+
 
 Инструменты: 
 Python, Pandas, Scikit-learn, CatBoost, LightGBM, Seaborn. 
